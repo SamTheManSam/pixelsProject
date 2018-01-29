@@ -23,3 +23,9 @@
 * polaroid filter, mainly saturation and frames
 * polarizing filter
 * overlay two pictures, varying strengths
+* The nearer to the edges, the darker the pixels
+* Turn the photo into four different colored repicants of the original photo
+* Add parallel waves that distort the image
+* Turn the photo into something that resembles a painting
+* Mirror the right side to the left side and the left to the right
+* Create a gradient where the the bottoms turns b & W
